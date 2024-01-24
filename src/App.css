@@ -1,0 +1,46 @@
+body{
+  background-color: #4064d4;
+}
+
+.heading{
+  margin-left: 500px
+}
+
+.input-box{
+  margin-left: 50px;
+}
+h1{
+  margin-left:150px ;
+}
+.input-txt{
+  background-color:#4064d4;
+  color: white;
+  width: 500px;
+  height: 500px;
+}
+
+.exit{
+  margin-right: 50px;
+}
+
+.exit-text{
+  box-shadow: 10px 10px 5px rgb(30, 30, 30);
+  border-radius: 5px;
+  background-color: rgb(78, 76, 76);
+  width: 500px;
+  height: 500px;
+  color: black;
+}
+
+.distance{
+  display: flex;
+}
+
+.distance{
+  justify-content: space-between;
+}
+
+.text-color{
+  color:whitesmoke
+}
+
